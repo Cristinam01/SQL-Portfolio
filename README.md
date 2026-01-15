@@ -144,7 +144,7 @@ The primary business processes include:
 * Workforce and logistics operations
 
 ## Dimensional Model Overview
-![ER Diagram](
+![ER Diagram](ER_Modeling_ARS.png)
 
 The database design follows dimensional modeling concepts by separating measurable facts from descriptive dimensions, allowing efficient querying and reporting.
 
